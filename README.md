@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://charming-alfajores-63db12.netlify.app" target="_blank">
+  <a href="https://chic-dasik-0c5065.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
